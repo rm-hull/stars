@@ -51,7 +51,7 @@
 ## Assembly 
 
 - [viterin/vek](https://github.com/viterin/vek) - SIMD Accelerated vector functions for Go
-- [markmoxon/cassette-elite-beebasm](https://github.com/markmoxon/cassette-elite-beebasm) - Fully documented and annotated source code for the cassette version of Elite on the BBC Micro
+- [markmoxon/elite-source-code-bbc-micro-cassette](https://github.com/markmoxon/elite-source-code-bbc-micro-cassette) - Fully documented and annotated source code for the cassette version of Elite on the BBC Micro
 - [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-
 - [organix/pijFORTHos](https://github.com/organix/pijFORTHos) - A bare-metal FORTH operating system for Raspberry Pi
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -98,6 +98,7 @@
 ## C# # 
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [mxgmn/ConvChain](https://github.com/mxgmn/ConvChain) - Bitmap generation from a single example with convolutions and MCMC
 - [bzaar/prolog](https://github.com/bzaar/prolog) - Minimalist Prolog compiler and runtime library
@@ -220,6 +221,8 @@
 
 ## Go 
 
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -248,6 +251,7 @@
 
 ## HTML 
 
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -362,7 +366,6 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [schenker/image-learner](https://github.com/schenker/image-learner) - Training a neural network to map from x,y of an images pixels to r,g,b.

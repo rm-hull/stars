@@ -220,7 +220,7 @@
 
 ## Go 
 
-- [pehringer/simd](https://github.com/pehringer/simd) - Simd support via Plan9 assemble code for arithmetic operations. Allowing for parallel element-wise computations.
+- [pehringer/simd](https://github.com/pehringer/simd) - Simd support via Go assembly for parallel element-wise computations.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -288,6 +288,7 @@
 
 ## JavaScript 
 
+- [dhotson/springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
@@ -497,6 +498,7 @@
 
 ## Rust 
 
+- [supabase/pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic
 - [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3 from within PostgreSQL
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
@@ -554,6 +556,7 @@
 
 ## Swift 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 
 ## TypeScript 

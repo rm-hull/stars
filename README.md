@@ -288,6 +288,7 @@
 
 ## JavaScript 
 
+- [kevcodez/gradle-upgrade-interactive](https://github.com/kevcodez/gradle-upgrade-interactive) - CLI to interactively upgrade gradle dependencies, inspired by yarn.
 - [dhotson/springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
@@ -375,6 +376,7 @@
 
 ## Kotlin 
 
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [breandan/kotlingrad](https://github.com/breandan/kotlingrad) - 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types
 
 ## Lua 
@@ -498,6 +500,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [supabase/pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic
 - [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3 from within PostgreSQL
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
@@ -541,6 +544,7 @@
 
 ## Shell 
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [koush/EFI-SkullCanyon](https://github.com/koush/EFI-SkullCanyon) - 

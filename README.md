@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [cybertec-postgresql/pgwatch](https://github.com/cybertec-postgresql/pgwatch) - 🔬PGWATCH: PostgreSQL metrics monitor/dashboard
 - [pehringer/simd](https://github.com/pehringer/simd) - Simd support via Go assembly for parallel element-wise computations.
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -288,6 +289,7 @@
 
 ## JavaScript 
 
+- [eshaz/wasm-audio-decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 - [kevcodez/gradle-upgrade-interactive](https://github.com/kevcodez/gradle-upgrade-interactive) - CLI to interactively upgrade gradle dependencies, inspired by yarn.
 - [dhotson/springy](https://github.com/dhotson/springy) - A force directed graph layout algorithm in JavaScript
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
@@ -565,6 +567,8 @@
 
 ## TypeScript 
 
+- [akgondber/npm-check-extras](https://github.com/akgondber/npm-check-extras) - CLI app to check for outdated and unused dependencies, and run update/delete action over selected ones
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [microsoft/ts-parsec](https://github.com/microsoft/ts-parsec) - Writing a custom parser is a fairly common need. Although there are already parser combinators in others languages, TypeScript provides a powerful and well-structured foundation for building this. Com

@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -58,6 +59,10 @@
 - [organix/pijFORTHos](https://github.com/organix/pijFORTHos) - A bare-metal FORTH operating system for Raspberry Pi
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [hermanhermitage/videocoreiv-qpu](https://github.com/hermanhermitage/videocoreiv-qpu) - Fun and Games with the Videocoreiv Quad Processor Units
+
+## Bikeshed 
+
+- [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web.
 
 ## C 
 
@@ -376,6 +381,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [schenker/image-learner](https://github.com/schenker/image-learner) - Training a neural network to map from x,y of an images pixels to r,g,b.
@@ -442,7 +448,6 @@
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [Yubico/yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
@@ -583,6 +588,7 @@
 
 ## TypeScript 
 
+- [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [akgondber/npm-check-extras](https://github.com/akgondber/npm-check-extras) - CLI app to check for outdated and unused dependencies, and run update/delete action over selected ones

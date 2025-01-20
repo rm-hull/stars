@@ -66,6 +66,7 @@
 
 ## C 
 
+- [EnterpriseDB/system_stats](https://github.com/EnterpriseDB/system_stats) - A Postgres extension for exposing system metrics such as CPU, memory and disk information
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
@@ -113,6 +114,7 @@
 
 ## C++ 
 
+- [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [juj/fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
@@ -461,6 +463,8 @@
 
 ## Python 
 
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [mchaput/whoosh](https://github.com/mchaput/whoosh) - Pure-Python full-text search library
 - [paprikka/gregglogger](https://github.com/paprikka/gregglogger) - 

@@ -107,6 +107,7 @@
 
 ## C# # 
 
+- [getcellm/cellm](https://github.com/getcellm/cellm) - Use LLMs in Excel formulas
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [mxgmn/ConvChain](https://github.com/mxgmn/ConvChain) - Bitmap generation from a single example with convolutions and MCMC
@@ -114,6 +115,7 @@
 
 ## C++ 
 
+- [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [juj/fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero
@@ -127,6 +129,7 @@
 
 ## CSS 
 
+- [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI.
 - [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings)
@@ -192,7 +195,7 @@
 - [taoensso/timbre](https://github.com/taoensso/timbre) - Pure Clojure/Script logging library
 - [clj-pdf/clj-pdf](https://github.com/clj-pdf/clj-pdf) - PDF generation library for Clojure
 - [brandonbloom/fipp](https://github.com/brandonbloom/fipp) - Fast Idiomatic Pretty Printer for Clojure
-- [xsc/lein-ancient](https://github.com/xsc/lein-ancient) - Check your Projects for outdated Dependencies
+- [xsc/lein-ancient](https://github.com/xsc/lein-ancient) - Check your Projects for outdated Dependencies | Moved to Codeberg
 - [uncomplicate/fluokitten](https://github.com/uncomplicate/fluokitten) - Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more.
 - [clj-commons/byte-streams](https://github.com/clj-commons/byte-streams) - A Rosetta stone for JVM byte representations
 - [Raynes/clojail](https://github.com/Raynes/clojail) - A control freak's best friend
@@ -321,6 +324,7 @@
 
 ## JavaScript 
 
+- [tomickigrzegorz/leaflet-examples](https://github.com/tomickigrzegorz/leaflet-examples) - :maple_leaf: A collection of examples of leaflet map usage
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [pointhi/leaflet-color-markers](https://github.com/pointhi/leaflet-color-markers) - color variations of the standard leaflet marker
@@ -427,6 +431,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [Scyne/stadiaRawBtFw](https://github.com/Scyne/stadiaRawBtFw) - A dump of the Raw Stadia controller BT Firmware
@@ -549,11 +554,12 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [supabase/pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic
-- [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3 from within PostgreSQL
+- [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3 or Azure Blob Storage from within PostgreSQL
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!

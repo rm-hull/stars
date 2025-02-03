@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -468,6 +469,8 @@
 
 ## Python 
 
+- [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
@@ -554,6 +557,7 @@
 
 ## Rust 
 
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -629,6 +633,7 @@
 
 ## TypeScript 
 
+- [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for local LLM-assisted code/text completion
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.

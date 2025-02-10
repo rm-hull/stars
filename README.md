@@ -66,6 +66,7 @@
 
 ## C 
 
+- [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
 - [EnterpriseDB/system_stats](https://github.com/EnterpriseDB/system_stats) - A Postgres extension for exposing system metrics such as CPU, memory and disk information
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
@@ -90,7 +91,7 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [grbl/grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [formatc1702/Micro-Word-Clock](https://github.com/formatc1702/Micro-Word-Clock) - Displaying the time in 8x8 pixels
+- [17o2/Micro-Word-Clock](https://github.com/17o2/Micro-Word-Clock) - Displaying the time in 8x8 pixels
 - [doceme/py-spidev](https://github.com/doceme/py-spidev) - 
 - [UWNetworksLab/arrakis](https://github.com/UWNetworksLab/arrakis) - Arrakis public repository.
 - [rcls/crap](https://github.com/rcls/crap) - Cvs Remote Access Program
@@ -235,9 +236,12 @@
 
 ## Go 
 
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [Vonng/pg_exporter](https://github.com/Vonng/pg_exporter) - Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [pebbe/proj](https://github.com/pebbe/proj) - A Go interface to the Cartographic Projections Library [PROJ]
 - [bramp/antlr4-grammars](https://github.com/bramp/antlr4-grammars) - Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.
-- [stonith404/pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [JGLTechnologies/gin-rate-limit](https://github.com/JGLTechnologies/gin-rate-limit) - A rate limiter for the gin web framework
 - [depado/ginprom](https://github.com/depado/ginprom) - Gin Prometheus metrics exporter
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
@@ -289,7 +293,7 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
-- [abrudz/APL386](https://github.com/abrudz/APL386) - APL385 Unicode font evolved
+- [abrudz/APL386](https://github.com/abrudz/APL386) - A New APL385 Unicode
 - [zapier/google-yolo-inline](https://github.com/zapier/google-yolo-inline) - A demo of how to include Google One-tap sign up anywhere on your own site
 - [timhutton/crochet-simulator](https://github.com/timhutton/crochet-simulator) - Predicting the 3D shape from a crochet pattern.
 - [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
@@ -633,7 +637,7 @@
 
 ## TypeScript 
 
-- [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for local LLM-assisted code/text completion
+- [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.

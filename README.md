@@ -237,6 +237,8 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [gin-contrib/requestid](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [Vonng/pg_exporter](https://github.com/Vonng/pg_exporter) - Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
@@ -437,6 +439,7 @@
 
 ## Others 
 
+- [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -485,7 +488,7 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [timescale/pgspot](https://github.com/timescale/pgspot) - Spot vulnerabilities in postgres SQL scripts
-- [slashml/amd_inference](https://github.com/slashml/amd_inference) - 
+- [slashml/amd_inference](https://github.com/slashml/amd_inference) - Docker-based inference engine for AMD GPUs
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI

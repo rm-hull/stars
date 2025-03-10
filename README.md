@@ -66,6 +66,7 @@
 
 ## C 
 
+- [andreacampanella/Mbed_MBI5034_Panel_Driver](https://github.com/andreacampanella/Mbed_MBI5034_Panel_Driver) - Drive an MBI5034 based LED panel with mbed.
 - [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
 - [EnterpriseDB/system_stats](https://github.com/EnterpriseDB/system_stats) - A Postgres extension for exposing system metrics such as CPU, memory and disk information
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -144,6 +145,7 @@
 
 ## Clojure 
 
+- [rm-hull/nvd-clojure](https://github.com/rm-hull/nvd-clojure) - National Vulnerability Database dependency checker for Clojure projects
 - [AvramRobert/omnia](https://github.com/AvramRobert/omnia) - 
 - [oakes/Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
 - [noprompt/garden](https://github.com/noprompt/garden) - Generate CSS with Clojure
@@ -237,6 +239,7 @@
 
 ## Go 
 
+- [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -425,6 +428,7 @@
 
 ## Kotlin 
 
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [breandan/kotlingrad](https://github.com/breandan/kotlingrad) - 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types
 
@@ -566,6 +570,7 @@
 
 ## Rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer
@@ -648,7 +653,7 @@
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [akgondber/npm-check-extras](https://github.com/akgondber/npm-check-extras) - CLI app to check for outdated and unused dependencies, and run update/delete action over selected ones
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [microsoft/ts-parsec](https://github.com/microsoft/ts-parsec) - Writing a custom parser is a fairly common need. Although there are already parser combinators in others languages, TypeScript provides a powerful and well-structured foundation for building this. Com
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design

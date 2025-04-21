@@ -26,6 +26,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Mathematica](#mathematica)
 - [Others](#others)
 - [PHP](#php)
@@ -118,6 +119,7 @@
 
 ## C++ 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
@@ -240,6 +242,8 @@
 
 ## Go 
 
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+- [filecoin-project/go-jsonrpc](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
@@ -336,8 +340,9 @@
 
 ## JavaScript 
 
+- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) - An MCP stdio to HTTP SSE transport gateway with example server and MCP client
 - [tomickigrzegorz/leaflet-examples](https://github.com/tomickigrzegorz/leaflet-examples) - :maple_leaf: A collection of examples of leaflet map usage
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [pointhi/leaflet-color-markers](https://github.com/pointhi/leaflet-color-markers) - color variations of the standard leaflet marker
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
@@ -413,7 +418,6 @@
 - [kenkeiter/skeuocard](https://github.com/kenkeiter/skeuocard) - Skeuocard progressively enhances credit card inputs to provide a skeuomorphic interface.
 - [visionmedia/move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 - [bramp/js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [chrisdone-archive/jquery-console](https://github.com/chrisdone-archive/jquery-console) - A simple JQuery console emulator
 - [lynaghk/c2](https://github.com/lynaghk/c2) - Declarative data visualization in Clojure(Script).
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
@@ -436,6 +440,10 @@
 
 - [zevv/lsofgraph](https://github.com/zevv/lsofgraph) - lsof to graphviz
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
+
+## MDX 
+
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Mathematica 
 
@@ -579,7 +587,7 @@
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [supabase/pg_netstat](https://github.com/supabase/pg_netstat) - PostgreSQL extension to monitor database network traffic
-- [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage or http(s) stores from within PostgreSQL
+- [CrunchyData/pg_parquet](https://github.com/CrunchyData/pg_parquet) - Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!

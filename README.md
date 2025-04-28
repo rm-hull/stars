@@ -67,6 +67,7 @@
 
 ## C 
 
+- [google/gasket-driver](https://github.com/google/gasket-driver) - 
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [andreacampanella/Mbed_MBI5034_Panel_Driver](https://github.com/andreacampanella/Mbed_MBI5034_Panel_Driver) - Drive an MBI5034 based LED panel with mbed.
 - [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
@@ -249,7 +250,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [Vonng/pg_exporter](https://github.com/Vonng/pg_exporter) - Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus
+- [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter) - Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [pebbe/proj](https://github.com/pebbe/proj) - A Go interface to the Cartographic Projections Library [PROJ]
 - [bramp/antlr4-grammars](https://github.com/bramp/antlr4-grammars) - Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.
@@ -272,7 +273,7 @@
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
-- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+- [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -302,7 +303,7 @@
 - [alexurquhart/free-tiles](https://github.com/alexurquhart/free-tiles) - An index of free basemap and overlay tiles for Leaflet
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [abrudz/APL386](https://github.com/abrudz/APL386) - A New APL385 Unicode
 - [zapier/google-yolo-inline](https://github.com/zapier/google-yolo-inline) - A demo of how to include Google One-tap sign up anywhere on your own site
@@ -460,7 +461,7 @@
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [DanielHartUK/Dot-Matrix-Typeface](https://github.com/DanielHartUK/Dot-Matrix-Typeface) - A simple Dot Matrix style typeface
 - [dwillis/nyc-maps](https://github.com/dwillis/nyc-maps) - Maps of New York City geodata
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!

@@ -149,7 +149,6 @@
 
 ## Clojure 
 
-- [rm-hull/nvd-clojure](https://github.com/rm-hull/nvd-clojure) - National Vulnerability Database dependency checker for Clojure projects
 - [AvramRobert/omnia](https://github.com/AvramRobert/omnia) - 
 - [oakes/Nightlight](https://github.com/oakes/Nightlight) - An embedded editor for Clojure
 - [noprompt/garden](https://github.com/noprompt/garden) - Generate CSS with Clojure
@@ -243,6 +242,7 @@
 
 ## Go 
 
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [filecoin-project/go-jsonrpc](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger

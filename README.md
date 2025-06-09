@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [gin-contrib/zap](https://github.com/gin-contrib/zap) - Alternative logging through zap
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [gin-contrib/timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -283,7 +284,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read.
+- [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Observability on your laptop
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [phillbaker/terraform-provider-elasticsearch](https://github.com/phillbaker/terraform-provider-elasticsearch) - An elasticsearch provider for terraform
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!

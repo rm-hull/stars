@@ -242,6 +242,11 @@
 
 ## Go 
 
+- [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+- [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [tidwall/rtree](https://github.com/tidwall/rtree) - An R-tree implementation for Go
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) - Alternative logging through zap
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -328,7 +333,7 @@
 
 ## Java 
 
-- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included
+- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [FusionAuth/fusionauth-jwt](https://github.com/FusionAuth/fusionauth-jwt) - A simple to use Java 8 JWT Library. Verify, Sign, Encode, Decode all day.
 - [borconi/obd2aa](https://github.com/borconi/obd2aa) - OBD2 data using Torque on Android Auto
@@ -346,6 +351,8 @@
 
 ## JavaScript 
 
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
+- [davidmarkclements/fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) - An MCP stdio to HTTP SSE transport gateway with example server and MCP client
@@ -458,6 +465,7 @@
 
 ## Others 
 
+- [martinjc/UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) - GeoJSON versions of UK Boundary Data
 - [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
@@ -488,6 +496,7 @@
 
 ## Perl 
 
+- [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [webmin/authentic-theme](https://github.com/webmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) - DuckDuckGo Instant Answers based on Perl & JavaScript
@@ -498,6 +507,7 @@
 
 ## Python 
 
+- [JosephRPalmer/octopus-usage-exporter](https://github.com/JosephRPalmer/octopus-usage-exporter) - Prometheus exporter for Octopus Energy metrics. Works best when coupled with an Octopus Home Mini.
 - [mhl/postcodes-mapit](https://github.com/mhl/postcodes-mapit) - A MapIt instance for approximate postcode boundaries based on the Voronoi diagram of ONSPD
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Cloudflare Tunnel & Zero Trust manager
@@ -594,6 +604,7 @@
 
 ## Rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -672,6 +683,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization
 - [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner

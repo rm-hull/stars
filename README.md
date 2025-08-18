@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [gin-contrib/cache](https://github.com/gin-contrib/cache) - Gin middleware/handler to enable Cache
 - [gin-contrib/pprof](https://github.com/gin-contrib/pprof) - gin pprof middleware
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [eko/pihole-exporter](https://github.com/eko/pihole-exporter) - A Prometheus exporter for PI-Hole's Raspberry PI ad blocker
@@ -511,6 +512,7 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [JosephRPalmer/octopus-usage-exporter](https://github.com/JosephRPalmer/octopus-usage-exporter) - Prometheus exporter for Octopus Energy metrics. Works best when coupled with an Octopus Home Mini.
 - [mhl/postcodes-mapit](https://github.com/mhl/postcodes-mapit) - A MapIt instance for approximate postcode boundaries based on the Voronoi diagram of ONSPD
@@ -694,6 +696,7 @@
 
 ## TypeScript 
 
+- [akursat/react-leaflet-cluster](https://github.com/akursat/react-leaflet-cluster) - React-leaflet-cluster is a plugin for react-leaflet. A wrapper component of Leaflet.markercluster.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [andreinwald/browser-llm](https://github.com/andreinwald/browser-llm) - Browser LLM Demo (like ChatGPT). Works locally with JavaScript and WebGPU

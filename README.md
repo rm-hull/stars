@@ -246,6 +246,7 @@
 
 ## Go 
 
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [kettek/apng](https://github.com/kettek/apng) - APNG decoder and encoder for golang
@@ -345,7 +346,7 @@
 
 ## Java 
 
-- [immutables/immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects.
+- [immutables/immutables](https://github.com/immutables/immutables) - Java annotation processor to create immutable objects and builders. Sweeps boilerplate code under the rug since 2013!
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [FusionAuth/fusionauth-jwt](https://github.com/FusionAuth/fusionauth-jwt) - A simple to use Java 8 JWT Library. Verify, Sign, Encode, Decode all day.
 - [borconi/obd2aa](https://github.com/borconi/obd2aa) - OBD2 data using Torque on Android Auto
@@ -523,7 +524,7 @@
 ## Python 
 
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance SDK and runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -610,7 +611,7 @@
 
 ## Racket 
 
-- [tonyg/pi-nothing](https://github.com/tonyg/pi-nothing) - i386, x86_64, ARMv7 assembler/linker; Nothing-like mid-level language; Linear-scan register allocator; Operating system for Raspberry Pi
+- [tonyg/pi-nothing](https://github.com/tonyg/pi-nothing) - i386, x86_64, ARMv7 assembler/linker; Nothing-like mid-level language; Linear-scan register allocator; Operating system for Raspberry Pi -- MOVED TO https://git.leastfixedpoint.com/tonyg/pi-nothing
 - [danprager/racket-2048](https://github.com/danprager/racket-2048) - The 2048 game implemented in Racket language
 
 ## Ruby 
@@ -711,6 +712,7 @@
 
 ## TypeScript 
 
+- [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [akursat/react-leaflet-cluster](https://github.com/akursat/react-leaflet-cluster) - React-leaflet-cluster is a plugin for react-leaflet. A wrapper component of Leaflet.markercluster.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL

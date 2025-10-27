@@ -364,6 +364,7 @@
 
 ## JavaScript 
 
+- [mpetazzoni/leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx) - A GPX track plugin for Leaflet.js
 - [digidem/leaflet-side-by-side](https://github.com/digidem/leaflet-side-by-side) - A Leaflet control to add a split screen to compare two map overlays
 - [maplibre/maplibre-gl-leaflet](https://github.com/maplibre/maplibre-gl-leaflet) - This is a binding from MapLibre GL JS to the familiar Leaflet API.
 - [leaflet-extras/leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
@@ -523,8 +524,9 @@
 
 ## Python 
 
+- [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automating docker containers updates with a web ui
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -712,6 +714,7 @@
 
 ## TypeScript 
 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [akursat/react-leaflet-cluster](https://github.com/akursat/react-leaflet-cluster) - React-leaflet-cluster is a plugin for react-leaflet. A wrapper component of Leaflet.markercluster.

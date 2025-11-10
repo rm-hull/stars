@@ -75,6 +75,7 @@
 - [EnterpriseDB/system_stats](https://github.com/EnterpriseDB/system_stats) - A Postgres extension for exposing system metrics such as CPU, memory and disk information
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [saitoha/libsixel](https://github.com/saitoha/libsixel) - A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).
 - [michaelengel/crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
 - [rossumur/espflix](https://github.com/rossumur/espflix) - A free video streaming service that runs on a ESP32
@@ -128,7 +129,6 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
 - [pgRouting/osm2pgrouting](https://github.com/pgRouting/osm2pgrouting) - Import tool for OpenStreetMap data to pgRouting database
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [juj/fbcp-ili9341](https://github.com/juj/fbcp-ili9341) - A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -246,6 +246,9 @@
 
 ## Go 
 
+- [robfig/cron](https://github.com/robfig/cron) - a cron library for go
+- [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
+- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [galactixx/stringwrap](https://github.com/galactixx/stringwrap) - Stringwrap is a Go package for wrapping strings by visual width with optional word splitting and full ANSI + grapheme cluster support.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -427,6 +430,7 @@
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component
 - [kanaka/miniMAL](https://github.com/kanaka/miniMAL) - A Delightfully Diminutive Lisp. Implemented in &lt; 1 KB of JavaScript with JSON source, macros, tail-calls, JS interop, error-handling, and more.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [alexeisavca/webtorrentapp](https://github.com/alexeisavca/webtorrentapp) - Webtorrent App
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [pmneila/jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
@@ -729,7 +733,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [andreinwald/browser-llm](https://github.com/andreinwald/browser-llm) - Browser LLM Demo (like ChatGPT). Works locally with JavaScript and WebGPU
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based, multi-site remote access platform using WireGuard®
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization
 - [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
@@ -768,7 +772,6 @@
 - [jednano/eclint](https://github.com/jednano/eclint) - Validate or fix code that doesn't adhere to EditorConfig settings or infer settings from existing code.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
 ## VHDL 

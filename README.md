@@ -68,6 +68,7 @@
 
 ## C 
 
+- [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [google/gasket-driver](https://github.com/google/gasket-driver) - 
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [andreacampanella/Mbed_MBI5034_Panel_Driver](https://github.com/andreacampanella/Mbed_MBI5034_Panel_Driver) - Drive an MBI5034 based LED panel with mbed.
@@ -431,6 +432,7 @@
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component
 - [kanaka/miniMAL](https://github.com/kanaka/miniMAL) - A Delightfully Diminutive Lisp. Implemented in &lt; 1 KB of JavaScript with JSON source, macros, tail-calls, JS interop, error-handling, and more.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [alexeisavca/webtorrentapp](https://github.com/alexeisavca/webtorrentapp) - Webtorrent App
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 - [pmneila/jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
@@ -724,6 +726,7 @@
 
 ## TypeScript 
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [oflisback/react-favicon](https://github.com/oflisback/react-favicon) - Set or animate your React app's favicon
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -775,7 +778,6 @@
 - [jednano/eclint](https://github.com/jednano/eclint) - Validate or fix code that doesn't adhere to EditorConfig settings or infer settings from existing code.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 
 ## VHDL 

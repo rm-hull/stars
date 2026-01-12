@@ -56,7 +56,7 @@
 
 - [pehringer/simd](https://github.com/pehringer/simd) - Simd support via Go assembly for parallel element-wise computations.
 - [viterin/vek](https://github.com/viterin/vek) - SIMD Accelerated vector functions for Go
-- [markmoxon/elite-source-code-bbc-micro-cassette](https://github.com/markmoxon/elite-source-code-bbc-micro-cassette) - Fully documented and annotated source code for the cassette version of Elite on the BBC Micro
+- [markmoxon/elite-source-code-bbc-micro-cassette](https://github.com/markmoxon/elite-source-code-bbc-micro-cassette) - Fully documented source code for the cassette version of the classic game Elite on the BBC Micro
 - [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-
 - [organix/pijFORTHos](https://github.com/organix/pijFORTHos) - A bare-metal FORTH operating system for Raspberry Pi
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -247,6 +247,7 @@
 
 ## Go 
 
+- [netmute/ctags-lsp](https://github.com/netmute/ctags-lsp) - LSP implementation using universal-ctags as backend
 - [PascalMinder/geoblock](https://github.com/PascalMinder/geoblock) - Traefik middleware plugin - Deny requests based on country of origin
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
@@ -383,7 +384,6 @@
 - [davidmarkclements/fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction
 - [VictorTaelin/WebMonkeys](https://github.com/VictorTaelin/WebMonkeys) - Massively parallel GPU programming on JavaScript, simple and clean.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) - An MCP stdio to HTTP SSE transport gateway with example server and MCP client
-- [tomickigrzegorz/leaflet-examples](https://github.com/tomickigrzegorz/leaflet-examples) - :maple_leaf: A collection of examples of leaflet map usage
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [pointhi/leaflet-color-markers](https://github.com/pointhi/leaflet-color-markers) - color variations of the standard leaflet marker
@@ -496,6 +496,7 @@
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [martinjc/UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) - GeoJSON versions of UK Boundary Data
 - [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
+- [tomickigrzegorz/leaflet-examples](https://github.com/tomickigrzegorz/leaflet-examples) - :maple_leaf: A collection of examples of leaflet map usage
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -540,7 +541,7 @@
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.

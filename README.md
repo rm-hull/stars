@@ -644,13 +644,13 @@
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [junegunn/redis-stat](https://github.com/junegunn/redis-stat) - (UNMAINTAINED) A real-time Redis monitoring tool
-- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
+- [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant :ukraine:
 - [garybernhardt/selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
 
 ## Rust 
 
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.

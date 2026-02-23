@@ -219,7 +219,7 @@
 - [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
 - [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure
 - [pallix/lacij](https://github.com/pallix/lacij) - Lacij is a graph visualization library for Clojure  with automatic layouts, edition and undo/redo support.
-- [budu/lobos](https://github.com/budu/lobos) - A library to create and manipulate SQL database schemas with migrations support.
+- [budu/lobos](https://github.com/budu/lobos) - A library to create and manipulate SQL database schemas with migrations support
 - [Engelberg/instaparse](https://github.com/Engelberg/instaparse) - 
 - [dakrone/clojure-opennlp](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp)
 - [dakrone/clj-http](https://github.com/dakrone/clj-http) - An idiomatic clojure http client wrapping the apache client. Officially supported version.
@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [mpetazzoni/leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx) - A GPX track plugin for Leaflet.js
@@ -545,7 +546,7 @@
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.

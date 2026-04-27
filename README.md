@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [NV404/gova](https://github.com/NV404/gova) - declarative GUI framework for Go
 - [chai2010/webp](https://github.com/chai2010/webp) - WebP decoder and encoder for Go (Zero Dependencies). 该项目不再维护, 大家自己fork吧
 - [vicentereig/whatsapp-cli](https://github.com/vicentereig/whatsapp-cli) - Danger. Danger. High Voltage. Give your codex/claude access to WhatsApp
 - [netmute/ctags-lsp](https://github.com/netmute/ctags-lsp) - LSP implementation using universal-ctags as backend
@@ -498,7 +499,7 @@
 
 - [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [martinjc/UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) - GeoJSON versions of UK Boundary Data
-- [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
+- [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 26.04
 - [tomickigrzegorz/leaflet-examples](https://github.com/tomickigrzegorz/leaflet-examples) - :maple_leaf: A collection of examples of leaflet map usage
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [logpai/loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]

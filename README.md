@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [felt/tippecanoe](https://github.com/felt/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 - [genestealer/everblu-meters-esp8266-improved](https://github.com/genestealer/everblu-meters-esp8266-improved) - Fetch water usage data from Cyble meters for ESP8266 / ESP32 - MQTT Home Assistant & ESPHome External Component
 - [google-coral/libedgetpu](https://github.com/google-coral/libedgetpu) - Source code for the userspace level runtime driver for Coral.ai devices.
@@ -549,7 +550,7 @@
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -785,7 +786,7 @@
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
 - [m-nathani/graphql-compose-elasticsearch](https://github.com/m-nathani/graphql-compose-elasticsearch) - Graphql App using Node with typescript, KOA framework and Elasticsearch
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
-- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [gicentre/litvis](https://github.com/gicentre/litvis) - Literate Visualization: Theory, software and examples
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier

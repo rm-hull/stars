@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [s60sc/ESP32_AdBlocker](https://github.com/s60sc/ESP32_AdBlocker) - ESP32 based DNS sinkhole for ads and trackers
 - [felt/tippecanoe](https://github.com/felt/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [OSGeo/gdal](https://github.com/OSGeo/gdal) - GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 - [genestealer/everblu-meters-esp8266-improved](https://github.com/genestealer/everblu-meters-esp8266-improved) - Fetch water usage data from Cyble meters for ESP8266 / ESP32 - MQTT Home Assistant & ESPHome External Component
@@ -403,7 +404,7 @@
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-- [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individua
+- [uhop/stream-json](https://github.com/uhop/stream-json) - A micro-library of stream components for building custom JSON and JSONC processing pipelines with a minimal memory footprint — parse, filter, and transform JSON far larger than available memory with a
 - [jneen/parsimmon](https://github.com/jneen/parsimmon) - A monadic LL(infinity) parser combinator library for javascript
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -705,7 +706,7 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf

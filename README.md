@@ -260,7 +260,7 @@
 - [MadAppGang/dingo](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
-- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by Milvus and Beego.
+- [bits-and-blooms/bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters, used by many important systems
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [galactixx/stringwrap](https://github.com/galactixx/stringwrap) - Stringwrap is a Go package for wrapping strings by visual width with optional word splitting and full ANSI + grapheme cluster support.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -279,14 +279,14 @@
 - [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 - [tidwall/rtree](https://github.com/tidwall/rtree) - An R-tree implementation for Go
 - [gin-contrib/zap](https://github.com/gin-contrib/zap) - Alternative logging through zap
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [gin-contrib/timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [filecoin-project/go-jsonrpc](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter) - Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus

@@ -293,7 +293,7 @@
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [pebbe/proj](https://github.com/pebbe/proj) - A Go interface to the Cartographic Projections Library [PROJ]
 - [bramp/antlr4-grammars](https://github.com/bramp/antlr4-grammars) - Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [JGLTechnologies/gin-rate-limit](https://github.com/JGLTechnologies/gin-rate-limit) - A rate limiter for the gin web framework
 - [depado/ginprom](https://github.com/depado/ginprom) - Gin Prometheus metrics exporter
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications

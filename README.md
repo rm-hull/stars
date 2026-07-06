@@ -32,6 +32,7 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Python](#python)
 - [Racket](#racket)
@@ -128,7 +129,7 @@
 - [genestealer/everblu-meters-esp8266-improved](https://github.com/genestealer/everblu-meters-esp8266-improved) - Fetch water usage data from Cyble meters for ESP8266 / ESP32 - MQTT Home Assistant & ESPHome External Component
 - [google-coral/libedgetpu](https://github.com/google-coral/libedgetpu) - Source code for the userspace level runtime driver for Coral.ai devices.
 - [google-coral/edgetpu](https://github.com/google-coral/edgetpu) - Coral issue tracker (and legacy Edge TPU API source)
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
@@ -293,7 +294,7 @@
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [pebbe/proj](https://github.com/pebbe/proj) - A Go interface to the Cartographic Projections Library [PROJ]
 - [bramp/antlr4-grammars](https://github.com/bramp/antlr4-grammars) - Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 - [JGLTechnologies/gin-rate-limit](https://github.com/JGLTechnologies/gin-rate-limit) - A rate limiter for the gin web framework
 - [depado/ginprom](https://github.com/depado/ginprom) - Gin Prometheus metrics exporter
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
@@ -537,6 +538,10 @@
 - [webmin/authentic-theme](https://github.com/webmin/authentic-theme) - Official theme for the best server management panel of the 21st Century
 - [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) - DuckDuckGo Instant Answers based on Perl & JavaScript
 
+## PowerShell 
+
+- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
+
 ## Prolog 
 
 - [triska/lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog.
@@ -653,6 +658,7 @@
 
 ## Rust 
 
+- [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -707,7 +713,6 @@
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
-- [hagezi/dns-servers](https://github.com/hagezi/dns-servers) - HaGeZi DNS: Free, Non-Commercial EU Public DNS Servers
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
 - [smithmicro/n7m](https://github.com/smithmicro/n7m) - Minimalistic Docker images for Nominatim
@@ -758,7 +763,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [nathan-barry/gpt2-webgl](https://github.com/nathan-barry/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization
+- [nathanrs/gpt2-webgl](https://github.com/nathanrs/gpt2-webgl) - A browser-based, WebGL2 implementation of GPT-2 with transform block and attention matrix visualization
 - [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁

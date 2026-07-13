@@ -265,7 +265,7 @@
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [galactixx/stringwrap](https://github.com/galactixx/stringwrap) - Stringwrap is a Go package for wrapping strings by visual width with optional word splitting and full ANSI + grapheme cluster support.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
-- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
+- [0xnyn/blaze](https://github.com/0xnyn/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [kettek/apng](https://github.com/kettek/apng) - APNG decoder and encoder for golang
@@ -294,7 +294,7 @@
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [pebbe/proj](https://github.com/pebbe/proj) - A Go interface to the Cartographic Projections Library [PROJ]
 - [bramp/antlr4-grammars](https://github.com/bramp/antlr4-grammars) - Precompiled Go versions of most of the grammars on https://github.com/antlr/grammars-v4.
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [JGLTechnologies/gin-rate-limit](https://github.com/JGLTechnologies/gin-rate-limit) - A rate limiter for the gin web framework
 - [depado/ginprom](https://github.com/depado/ginprom) - Gin Prometheus metrics exporter
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
@@ -555,7 +555,7 @@
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [Quenary/tugtainer](https://github.com/Quenary/tugtainer) - An application for automated Docker container updates with a web UI
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.

@@ -438,6 +438,7 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [GoogleChromeLabs/prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader) - 📰 Painless universal pre-rendering for Webpack.
 - [indutny/sticky-session](https://github.com/indutny/sticky-session) - Sticky session balancer based on a `cluster` module
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [Objelisks/lsystembot](https://github.com/Objelisks/lsystembot) - :paperclip::fire: twitter bot; generates random l systems
@@ -518,11 +519,8 @@
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [DanielHartUK/Dot-Matrix-Typeface](https://github.com/DanielHartUK/Dot-Matrix-Typeface) - A simple Dot Matrix style typeface
 - [dwillis/nyc-maps](https://github.com/dwillis/nyc-maps) - Maps of New York City geodata
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
-- [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
 - [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
 - [adafruit/Fritzing-Library](https://github.com/adafruit/Fritzing-Library) - Adafruit parts, components, breakouts, etc...in Fritzable format!
 
@@ -549,6 +547,7 @@
 
 ## Python 
 
+- [nathansutton/chad](https://github.com/nathansutton/chad) - chad: a local Claude-Code-style coding agent for your laptop
 - [chrisys/train-departure-display](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zero and 256x64 SPI OLED display
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
@@ -571,7 +570,7 @@
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [mchaput/whoosh](https://github.com/mchaput/whoosh) - Pure-Python full-text search library
 - [paprikka/gregglogger](https://github.com/paprikka/gregglogger) - 
@@ -725,6 +724,7 @@
 - [koush/EFI-SkullCanyon](https://github.com/koush/EFI-SkullCanyon) - 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [lambci/node-custom-lambda](https://github.com/lambci/node-custom-lambda) - A custom runtime for AWS Lambda to execute functions in Node.js v10.x or v12.x
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [minos-org/ffcast](https://github.com/minos-org/ffcast) - screen recording wrapper for Unix cli screencast utilities | Custom version
 - [greghendershott/travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis CI with Racket

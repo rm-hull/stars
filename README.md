@@ -66,7 +66,7 @@
 
 ## Bikeshed 
 
-- [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web.
+- [whatwg/usb](https://github.com/whatwg/usb) - Connecting hardware to the web.
 
 ## C 
 
@@ -289,7 +289,7 @@
 - [filecoin-project/go-jsonrpc](https://github.com/filecoin-project/go-jsonrpc) - Low Boilerplate JSON-RPC 2.0 library
 - [samber/slog-gin](https://github.com/samber/slog-gin) - 🚨 Gin middleware for slog logger
 - [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gin-contrib/requestid](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter) - Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus
@@ -335,6 +335,7 @@
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [mndrix/golog](https://github.com/mndrix/golog) - Prolog interpreter in Go
 
 ## Groovy 
@@ -389,7 +390,6 @@
 
 ## JavaScript 
 
-- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [mpetazzoni/leaflet-gpx](https://github.com/mpetazzoni/leaflet-gpx) - A GPX track plugin for Leaflet.js
@@ -547,7 +547,7 @@
 
 ## Python 
 
-- [nathansutton/chad](https://github.com/nathansutton/chad) - chad: a local Claude-Code-style coding agent for your laptop
+- [nathansutton/chad](https://github.com/nathansutton/chad) - chad: a coding agent for your macbook pro
 - [chrisys/train-departure-display](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zero and 256x64 SPI OLED display
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
@@ -725,7 +725,6 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [lambci/node-custom-lambda](https://github.com/lambci/node-custom-lambda) - A custom runtime for AWS Lambda to execute functions in Node.js v10.x or v12.x
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [minos-org/ffcast](https://github.com/minos-org/ffcast) - screen recording wrapper for Unix cli screencast utilities | Custom version
 - [greghendershott/travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis CI with Racket
 
@@ -750,6 +749,7 @@
 ## TypeScript 
 
 - [shaftoe/pi-coding-agent-action](https://github.com/shaftoe/pi-coding-agent-action) - GitHub action to integrate https://pi.dev/ coding agent with GitHub-compatible CI/CD, issues and PRs
+- [Brisk4t/ToothPaste](https://github.com/Brisk4t/ToothPaste) - Secure Wireless Data-Transfer over BLE and USB for Passwords, Pentesting and Media Control.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types

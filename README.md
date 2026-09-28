@@ -379,7 +379,6 @@
 - [kongchen/swagger-maven-plugin](https://github.com/kongchen/swagger-maven-plugin) - JAX-RS & SpringMVC supported maven build plugin, helps you generate Swagger JSON and API document in build phase.
 - [jline/jline3](https://github.com/jline/jline3) - JLine is a Java library for handling console input.
 - [electronicarts/ea-async](https://github.com/electronicarts/ea-async) - EA Async implements async-await methods in the JVM.
-- [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 - [failsafe-lib/failsafe](https://github.com/failsafe-lib/failsafe) - Fault tolerance and resilience patterns for the JVM
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
@@ -491,6 +490,7 @@
 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [breandan/kotlingrad](https://github.com/breandan/kotlingrad) - 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types
+- [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 
 ## Lua 
 
@@ -714,7 +714,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [ROCm/legacy-rocm-build](https://github.com/ROCm/legacy-rocm-build) - AMD ROCm™ Software - GitHub Home
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
-- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
+- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, fish, and tmux bindings for Git objects, powered by fzf
 - [smithmicro/n7m](https://github.com/smithmicro/n7m) - Minimalistic Docker images for Nominatim
 - [mediagis/nominatim-docker](https://github.com/mediagis/nominatim-docker) - 100% working container for Nominatim
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker

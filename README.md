@@ -87,7 +87,7 @@
 - [ocerman/zenmonitor](https://github.com/ocerman/zenmonitor) - Zen monitor is monitoring software for AMD Zen-based CPUs.
 - [ocerman/zenpower](https://github.com/ocerman/zenpower) - Zenpower is Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs.
 - [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
-- [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) - A Linux version of the ProcDump Sysinternals tool
+- [microsoft/ProcDump-Linux](https://github.com/microsoft/ProcDump-Linux) - A Linux version of the ProcDump Sysinternals tool
 - [symisc/ascii_art](https://github.com/symisc/ascii_art) - Real-Time ASCII Art Rendering Library
 - [jerrykuch/ersatz-setsid](https://github.com/jerrykuch/ersatz-setsid) - A quick poor man's setsid command for Mac OS X and other Unixes that lack one
 - [hrvach/espple](https://github.com/hrvach/espple) - Apple 1 Emulator with wireless PAL RF Output

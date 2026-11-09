@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [gabe565/CastSponsorSkip](https://github.com/gabe565/CastSponsorSkip) - Skip YouTube sponsorships (and sometimes ads) on all local Google Cast devices.
 - [NV404/gova](https://github.com/NV404/gova) - declarative GUI framework for Go
 - [chai2010/webp](https://github.com/chai2010/webp) - WebP decoder and encoder for Go (Zero Dependencies). 该项目不再维护, 大家自己fork吧
 - [vicentereig/whatsapp-cli](https://github.com/vicentereig/whatsapp-cli) - Danger. Danger. High Voltage. Give your codex/claude access to WhatsApp
@@ -335,7 +336,6 @@
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go.
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [jwilder/docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [mndrix/golog](https://github.com/mndrix/golog) - Prolog interpreter in Go
 
 ## Groovy 
@@ -549,6 +549,8 @@
 
 ## Python 
 
+- [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
+- [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [charlotte-hull/Computational_Sciences](https://github.com/charlotte-hull/Computational_Sciences) - 
 - [nathansutton/chad](https://github.com/nathansutton/chad) - chad: a coding agent for your macbook pro
 - [chrisys/train-departure-display](https://github.com/chrisys/train-departure-display) - A replica, near real-time, miniature UK railway station train departure sign based upon a Raspberry Pi Zero and 256x64 SPI OLED display
@@ -615,7 +617,7 @@
 - [home-assistant-libs/pychromecast](https://github.com/home-assistant-libs/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [kplindegaard/smbus2](https://github.com/kplindegaard/smbus2) - A drop-in replacement for smbus-cffi/smbus-python in pure Python
-- [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"
+- [wolph/python-progressbar](https://github.com/wolph/python-progressbar) - Progressbar 2 - A progress bar for Python 3 (3.10+) with ETA, speed and custom widgets - "pip install progressbar2"
 - [ondryaso/pi-rc522](https://github.com/ondryaso/pi-rc522) - Raspberry Pi Python library for SPI RFID RC522 module
 - [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero) - A simple interface to GPIO devices with Raspberry Pi
 - [tadeck/onetimepass](https://github.com/tadeck/onetimepass) - One-time password library for HMAC-based (HOTP) and time-based (TOTP) passwords
@@ -663,6 +665,7 @@
 
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -714,7 +717,8 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [dibdot/DoH-IP-blocklists](https://github.com/dibdot/DoH-IP-blocklists) - This repo contains the domain names and the resolved IPv4/IPv6 addresses of public DoH server
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [ROCm/legacy-rocm-build](https://github.com/ROCm/legacy-rocm-build) - AMD ROCm™ Software - GitHub Home
 - [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, fish, and tmux bindings for Git objects, powered by fzf
@@ -728,6 +732,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [lambci/node-custom-lambda](https://github.com/lambci/node-custom-lambda) - A custom runtime for AWS Lambda to execute functions in Node.js v10.x or v12.x
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [minos-org/ffcast](https://github.com/minos-org/ffcast) - screen recording wrapper for Unix cli screencast utilities | Custom version
 - [greghendershott/travis-racket](https://github.com/greghendershott/travis-racket) - Use Travis CI with Racket
 
@@ -761,7 +766,6 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [oflisback/react-favicon](https://github.com/oflisback/react-favicon) - Set or animate your React app's favicon
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [skeate/Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [akursat/react-leaflet-cluster](https://github.com/akursat/react-leaflet-cluster) - React-leaflet-cluster is a plugin for react-leaflet. A wrapper component of Leaflet.markercluster.
